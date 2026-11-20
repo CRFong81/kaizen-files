@@ -78,13 +78,13 @@ define(['./workbox-e1553cc8'], (function (workbox) { 'use strict';
    */
   workbox.precacheAndRoute([{
     "url": "stats.html",
-    "revision": "a7623b83b7c92cf02ee31d74dda834d0"
+    "revision": "6537a29f81ec1e9ee79bd7c4cc2bc139"
   }, {
     "url": "registerSW.js",
     "revision": "402b66900e731ca748771b6fc5e7a068"
   }, {
     "url": "index.html",
-    "revision": "5497e51955205db23b7b65535ed17e72"
+    "revision": "7d535a683bc7c46462d17f6f9bac8fcc"
   }, {
     "url": "favicon.ico",
     "revision": "e0439d4403766b4f26743a6bdbe1e632"
@@ -149,13 +149,13 @@ define(['./workbox-e1553cc8'], (function (workbox) { 'use strict';
     "url": "assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2",
     "revision": null
   }, {
-    "url": "assets/index-CFnZ7AoH.js",
+    "url": "assets/index-DgUhTO44.js",
     "revision": null
   }, {
     "url": "assets/index-BIwMSw6A.css",
     "revision": null
   }, {
-    "url": "assets/DealList-Y8CO2lFe.js",
+    "url": "assets/DealList-BhwhblZs.js",
     "revision": null
   }, {
     "url": "appIcon/maskable_icon_x96.png",
